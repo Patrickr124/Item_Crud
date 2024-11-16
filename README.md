@@ -3,6 +3,7 @@ Crie uma tabela fictícia e depois faça uma query para cada item de um CRUD - C
 
 ### Estrutura da Tabela
 **Tabela - produtos**
+
 id_produto (número, PK)
 
 nome (string)
